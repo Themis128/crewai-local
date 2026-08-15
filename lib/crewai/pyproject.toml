@@ -75,7 +75,7 @@ docling = [
     "docling-core[chunking]>=2.74.1",
 ]
 qdrant = [
-    "qdrant-client[fastembed]~=1.14.3",
+    "qdrant-client[fastembed]~=1.19.0",
 ]
 aws = [
     "boto3~=1.43.46",
